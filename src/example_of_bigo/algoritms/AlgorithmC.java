@@ -10,7 +10,7 @@ public class AlgorithmC
      */
     public void computingAlgorithmC()
     {
-        sum = (n * (n+1)) /2;
+        sum = (n * (n+1)) / 2;
         System.out.println("C: " + sum);
     }
 }
